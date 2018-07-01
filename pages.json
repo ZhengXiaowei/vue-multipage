@@ -1,0 +1,14 @@
+{
+  "page1": {
+    "path": "./src/views/page1/index.js",
+    "title": "页面一"
+  },
+  "page2": {
+    "path": "./src/views/page2/index.js",
+    "title": "页面二"
+  },
+  "page3": {
+    "path": "./src/views/page3/index.js",
+    "title": "页面三"
+  }
+}
